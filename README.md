@@ -1,2 +1,3 @@
-# Bismoi-magazine
-My final sem major project, which is a blogging site developed for Bismoi Magazine.
+# Blog-Website
+
+## for index.html , style.css and main.js follow up with the video
